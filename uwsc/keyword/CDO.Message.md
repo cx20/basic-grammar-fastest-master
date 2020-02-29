@@ -5,7 +5,7 @@ CDO.Message は、CDO（Collaboration Data Objects）のメッセージ オブ�
 CDO を使用することで、メールの送信が可能です。
 
 ### サンプル
-```
+```vbscript
 //  File : SendTestMail.uws
 //  Description : UWSC から CDO を使用してメールを送信するサンプル
 Option Explicit
