@@ -31,23 +31,23 @@ voice.Speak "Hello"                      ' コンポーネントのメソッド�
 ### Windows 標準 コンポーネント
 |製品名|サンプル|リファレンス|
 |:----|:-------|:----------|
-|ADO (ActiveX Data Objects)	        |ADODB.Connection	|ADO API リファレンス|
-|DAO (Data Access Objects)	        |DAO.DBEngine	|DAO から ADO への移植|
-|CDO（Collaboration Data Objects）	|CDO.Message	|CDO Library / リファレンス|
-|FileSystem Object	                |Scripting.FileSystemObject	|スクリプト ラインタイム リファレンス|
-|Script Runtime Dictionary	        |Scripting.Dictionary	|Dictionary オブジェクト|
-|VBScript Regular Expression	      |VBScript.RegExp	|RegExp オブジェクト|
-|Windows Script Host Shell Object	 |WScript.Shell	|Windows Script Host リファレンス|
-|Shell Automation Service	         |Shell.Application	|Scriptable Shell Objects (英語)|
-|Internet Explorer	                |InternetExplorer.Application	|InternetExplorer Object (英語)|
-|SAPI (Microsoft Speech API)	      |SAPI.SpVoice	|Microsoft Speech API 5.3 (英語)|
-|CAPICOM (CryptoAPI COM)	          |CAPICOM.Utilities	|CAPICOM Reference (英語)|
-|WBEM Scripting Locator	            |WbemScripting.SWbemLocator	|WMI Reference (英語)|
-|XML DOM	                          |MSXML2.DOMDocument	|XML DOM Objects (英語)|
-|XMLHTTP (WinINet)	                |MSXML2.XMLHTTP	|XMLHttpRequest Object (英語)|
-|ServerXMLHTTP (WinHTTP)	          |MSXML2.ServerXMLHTTP	|IServerXMLHTTPRequest/ServerXMLHTTP (英語)|
-|WinHTTP	                          |WinHttp.WinHttpRequest	|WinHttpRequest Object (英語)|
-|WUAPI (Windows Update API)	        |Microsoft.Update.Session	|Windows Update Agent (WUA) API Reference (英語)|
+|ADO (ActiveX Data Objects)       |[ADODB.Connection](ADODB.Connection.md)|ADO API リファレンス|
+|DAO (Data Access Objects)        |[DAO.DBEngine](DAO.DBEngine.md)|DAO から ADO への移植|
+|CDO（Collaboration Data Objects）|[CDO.Message](CDO.Message.md)|CDO Library / リファレンス|
+|FileSystem Object                |[Scripting.FileSystemObject](Scripting.FileSystemObject.md)|スクリプト ラインタイム リファレンス|
+|Script Runtime Dictionary        |[Scripting.Dictionary](Scripting.Dictionary.md)|Dictionary オブジェクト|
+|VBScript Regular Expression      |[VBScript.RegExp](VBScript.RegExp.md)|RegExp オブジェクト|
+|Windows Script Host Shell Object |[WScript.Shell](WScript.Shell.md)|Windows Script Host リファレンス|
+|Shell Automation Service         |[Shell.Application](Shell.Application.md)|Scriptable Shell Objects (英語)|
+|Internet Explorer                |[InternetExplorer.Application](InternetExplorer.Application.md)|InternetExplorer Object (英語)|
+|SAPI (Microsoft Speech API)      |[SAPI.SpVoice](SAPI.SpVoice.md)|Microsoft Speech API 5.3 (英語)|
+|CAPICOM (CryptoAPI COM)          |[CAPICOM.Utilities](CAPICOM.Utilities.md)|CAPICOM Reference (英語)|
+|WBEM Scripting Locator           |[WbemScripting.SWbemLocator](WbemScripting.SWbemLocator.md)|WMI Reference (英語)|
+|XML DOM                          |[MSXML2.DOMDocument](MSXML2.DOMDocument.md)|XML DOM Objects (英語)|
+|XMLHTTP (WinINet)                |[MSXML2.XMLHTTP](MSXML2.XMLHTTP.md)|XMLHttpRequest Object (英語)|
+|ServerXMLHTTP (WinHTTP)          |[MSXML2.ServerXMLHTTP](MSXML2.ServerXMLHTTP.md)|IServerXMLHTTPRequest/ServerXMLHTTP (英語)|
+|WinHTTP                          |[WinHttp.WinHttpRequest](WinHttp.WinHttpRequest.md)|WinHttpRequest Object (英語)|
+|WUAPI (Windows Update API)       |Microsoft.Update.Session|Windows Update Agent (WUA) API Reference (英語)|
 
 ### Windows 7 標準 コンポーネント
 |製品名|サンプル|リファレンス|
