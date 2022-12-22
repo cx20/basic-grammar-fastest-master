@@ -328,7 +328,8 @@ Set fso = Nothing
 　Empty … 変数が初期化されていない状態を表す値です。変数を宣言した直後はこの値です。
 
 　Nothing … オブジェクト変数がオブジェクトを参照していない状態を表す値です。
-VBScript の真偽値
+
+### VBScript の真偽値
 
 　VBScript で偽と判断される値は、「False」「0」「Null」「Empty」「"False"」「"0"」です。これ以外は真になります。
 
