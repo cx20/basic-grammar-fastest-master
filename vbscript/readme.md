@@ -331,7 +331,8 @@ Set fso = Nothing
 VBScript の真偽値
 
 　VBScript で偽と判断される値は、「False」「0」「Null」「Empty」「"False"」「"0"」です。これ以外は真になります。
-ByVal と ByRef
+
+### ByVal と ByRef
 
 　VBScript の引数には、値渡し（ByVal）と参照渡し（ByRef）があります。省略した場合は参照渡しになります。
 ```vbscript
